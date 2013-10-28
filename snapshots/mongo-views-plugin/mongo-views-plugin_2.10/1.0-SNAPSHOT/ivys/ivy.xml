@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
-	<info organisation="mongo-views-plugin" module="mongo-views-plugin_2.10" revision="1.0-SNAPSHOT" status="integration" publication="20131028102903">
+	<info organisation="mongo-views-plugin" module="mongo-views-plugin_2.10" revision="1.0-SNAPSHOT" status="integration" publication="20131028182514">
 		<description>
 		mongo-views-plugin
 		</description>
