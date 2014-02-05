@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
-	<info organisation="reactive_mongo_crud" module="reactive_mongo_crud_2.10" revision="1.0-SNAPSHOT" status="integration" publication="20140205172311">
+	<info organisation="reactive_mongo_crud" module="reactive_mongo_crud_2.10" revision="1.0-SNAPSHOT" status="integration" publication="20140205175010">
 		<description>
 		reactive_mongo_crud
 		</description>
